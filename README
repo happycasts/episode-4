@@ -1,0 +1,17 @@
+I get info from gitcasts.com #1 git init #2 normal workflow
+
+schcon try to start from basics, and giving some explaination, that's not the style of my happycasts
+which is foucs on the problem, get it fixed.
+
+So the problem is: People new to git, how can they try it out and get interested.
+
+
+# content
+
+GIT is Global Infomation Tracker
+
+   vim .gitignore
+
+if you want to see what is happening inside your git repo
+
+    git status
